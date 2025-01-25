@@ -2,4 +2,6 @@ cd NextAuthDemo
 
 npm i
 
+npm install next-auth@beta
+
 
