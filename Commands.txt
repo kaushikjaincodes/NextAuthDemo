@@ -4,4 +4,25 @@ npm i
 
 npm install next-auth@beta
 
+# copy the creddentials in the .env file about the google client id and secret
 
+# create a file named auth.ts in the root folder
+then add the code in the file
+# create a file named middleware.ts in the root folder
+
+# create a folder named api in the root folder
+
+# create a folder named api/auth in the api folder
+
+# create a folder named [...nextauth] in the api/auth folder
+
+# create a file named route.ts in the api/auth/[...nextauth] folder
+then add the code in the file 
+import { GET, POST } from "@/auth"
+export { GET, POST };
+
+# create a file name middleware.ts in the root folder
+then add the code sent in the whatsapp group to the file
+
+# now edit the file named app/page.tsx
+add the code sent in the whatsapp group to the file 
